@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JonahNannepaga - Front-end developer.
-- 👀 I’m interested in developing responsive single page apps. 
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on working on a full stack project.
 - 📫 How to reach me twitter/@jonahnannepaga
